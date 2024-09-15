@@ -45,5 +45,5 @@
 <h2 align="center"> 📈 GitHub Stats </h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanseul37&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanseul37&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanseul37&hide=Makefile,Assembly&layout=compact&theme=radical" />
 </p>
